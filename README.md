@@ -2,7 +2,7 @@
 
 ![Weakest Link UI](https://raw.githubusercontent.com/emiliano-carrillo/Weakest-Link-RIvalMasDebil/master/Captura%20de%20pantalla%202016-12-22%20a%20la(s)%2014.26.37.png)
 
-This was a program I built for an school activity. I resembles the TV show "Weakest Link" (or "El Rival más débil" for latinos). 
+This was a program I built for an school activity. It resembles the TV show "Weakest Link" (or "El Rival más débil" for latinos). 
 It was built on flash using ActionScript 3.0.
 You can tweak it as you wish.
 
